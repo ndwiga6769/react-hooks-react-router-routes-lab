@@ -10,10 +10,7 @@ function Movies() {
     <div>Time:{item.time}</div>
     <h3>Genres</h3>
     <ul>
-
-      <li>{item.genres[0]}</li>
-      <li>{item.genres[1]}</li>
-      <li>{item.genres[2]}</li>
+      
     </ul>
     </div>
   ))}</div>)
